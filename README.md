@@ -188,15 +188,15 @@ QP and compression labels are derived directly from video identifiers (example g
 ## Figures
 
 ### Figure 1: Predicted vs True MOS (Test, calibrated)
-![Predicted vs True MOS (Test, calibrated)](fig_scatter_calibrated_test.png)
+![Predicted vs True MOS (Test, calibrated)](visuals/fig_scatter_calibrated_test.png)
 
 ### Figure 2: Calibration plot (validation fit → test apply)
-![Calibration plot](fig_calibration_plot.png)
+![Calibration plot](visuals/fig_calibration_plot.png)
 
 ### Figure 3: Training/Validation curves (loss, R², RMSE)
-![Training/Validation curves](fig_training_validation_curves.png)
+![Training/Validation curves](visuals/fig_training_validation_curves.png)
 
 ### Figure 4: ViT attention rollout heatmaps (qualitative examples)
-![ViT Attention Rollout Heatmaps](fig_attention_rollout_examples.png)
+![ViT Attention Rollout Heatmaps](visuals/fig_attention_rollout_examples.png)
 
 
